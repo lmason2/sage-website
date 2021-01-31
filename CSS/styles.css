@@ -1,0 +1,73 @@
+
+body {
+    background-color: #ebe9e9;
+    margin: 0;
+}
+
+hr {
+    border: dotted #000 6px;
+    background-color: #ebe9e9;
+    border-bottom: none;
+    width: 20%;
+    margin: 100px auto;
+}
+
+h1 {
+    font-family: "Lato-Bold";
+    color: #000; 
+    margin: 100px auto;
+    width: 50%;
+    font-size: 5em;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Roboto-Bold";
+    color: #000;
+    font-size: 3em;
+    margin: 0;
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(109, 201, 125);
+    margin-bottom: 0;
+    padding: 20px;
+    text-align: center;
+    padding-top: 30px;
+    color: #fff;
+}
+
+.testimonials {
+    margin: 100px auto;
+    width: 50%;
+}
+
+.navbar-brand {
+    font-family: "Lato-Bold";
+    font-size: 2rem;
+}
+
+.link-items {
+    font-family: "Roboto";
+}
+
+.contact {
+    width: 50%;
+    margin: 100px auto;
+    text-align: center;
+}
+
+.contact-link {
+    text-decoration: none;
+    color: #000;
+}
+
+.contact-link:hover {
+    color: #fff;
+}
+
+#carouselExampleControls {
+    width: 50%;
+    margin: 100px auto;
+}
